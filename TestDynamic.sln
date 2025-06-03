@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDynamic", "TestDynamic\TestDynamic.csproj", "{0EFE8B20-AF8F-4B6A-AC49-0C00E8ED7399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLib", "DynamicLib\DynamicLib.csproj", "{A6A743A4-560B-46A0-BD62-E0B0EF66132B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicShared", "DynamicShared\DynamicShared.csproj", "{B8AB0D19-984B-45F8-9C06-89FD10CD4705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFE8B20-AF8F-4B6A-AC49-0C00E8ED7399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFE8B20-AF8F-4B6A-AC49-0C00E8ED7399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFE8B20-AF8F-4B6A-AC49-0C00E8ED7399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFE8B20-AF8F-4B6A-AC49-0C00E8ED7399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A743A4-560B-46A0-BD62-E0B0EF66132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A743A4-560B-46A0-BD62-E0B0EF66132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A743A4-560B-46A0-BD62-E0B0EF66132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A743A4-560B-46A0-BD62-E0B0EF66132B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AB0D19-984B-45F8-9C06-89FD10CD4705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AB0D19-984B-45F8-9C06-89FD10CD4705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AB0D19-984B-45F8-9C06-89FD10CD4705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AB0D19-984B-45F8-9C06-89FD10CD4705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
